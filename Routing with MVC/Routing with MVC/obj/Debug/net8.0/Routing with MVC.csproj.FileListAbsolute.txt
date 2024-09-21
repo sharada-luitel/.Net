@@ -1,0 +1,30 @@
+D:\.net\Routing with MVC\Routing with MVC\bin\Debug\net8.0\appsettings.Development.json
+D:\.net\Routing with MVC\Routing with MVC\bin\Debug\net8.0\appsettings.json
+D:\.net\Routing with MVC\Routing with MVC\bin\Debug\net8.0\Routing with MVC.staticwebassets.runtime.json
+D:\.net\Routing with MVC\Routing with MVC\bin\Debug\net8.0\Routing with MVC.exe
+D:\.net\Routing with MVC\Routing with MVC\bin\Debug\net8.0\Routing with MVC.deps.json
+D:\.net\Routing with MVC\Routing with MVC\bin\Debug\net8.0\Routing with MVC.runtimeconfig.json
+D:\.net\Routing with MVC\Routing with MVC\bin\Debug\net8.0\Routing with MVC.dll
+D:\.net\Routing with MVC\Routing with MVC\bin\Debug\net8.0\Routing with MVC.pdb
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\Routing with MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\Routing with MVC.AssemblyInfoInputs.cache
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\Routing with MVC.AssemblyInfo.cs
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\Routing with MVC.csproj.CoreCompileInputs.cache
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\Routing with MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\Routing with MVC.RazorAssemblyInfo.cache
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\Routing with MVC.RazorAssemblyInfo.cs
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\staticwebassets\msbuild.Routing with MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.Routing with MVC.props
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Routing with MVC.props
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Routing with MVC.props
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\scopedcss\bundle\Routing with MVC.styles.css
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\scopedcss\projectbundle\Routing with MVC.bundle.scp.css
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\Routing with MVC.dll
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\refint\Routing with MVC.dll
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\Routing with MVC.pdb
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\Routing with MVC.genruntimeconfig.cache
+D:\.net\Routing with MVC\Routing with MVC\obj\Debug\net8.0\ref\Routing with MVC.dll

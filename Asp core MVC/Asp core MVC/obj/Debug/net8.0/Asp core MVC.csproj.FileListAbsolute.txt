@@ -1,0 +1,30 @@
+D:\.net\Asp core MVC\Asp core MVC\bin\Debug\net8.0\appsettings.Development.json
+D:\.net\Asp core MVC\Asp core MVC\bin\Debug\net8.0\appsettings.json
+D:\.net\Asp core MVC\Asp core MVC\bin\Debug\net8.0\Asp core MVC.staticwebassets.runtime.json
+D:\.net\Asp core MVC\Asp core MVC\bin\Debug\net8.0\Asp core MVC.exe
+D:\.net\Asp core MVC\Asp core MVC\bin\Debug\net8.0\Asp core MVC.deps.json
+D:\.net\Asp core MVC\Asp core MVC\bin\Debug\net8.0\Asp core MVC.runtimeconfig.json
+D:\.net\Asp core MVC\Asp core MVC\bin\Debug\net8.0\Asp core MVC.dll
+D:\.net\Asp core MVC\Asp core MVC\bin\Debug\net8.0\Asp core MVC.pdb
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\Asp core MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\Asp core MVC.AssemblyInfoInputs.cache
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\Asp core MVC.AssemblyInfo.cs
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\Asp core MVC.csproj.CoreCompileInputs.cache
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\Asp core MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\Asp core MVC.RazorAssemblyInfo.cache
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\Asp core MVC.RazorAssemblyInfo.cs
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\staticwebassets\msbuild.Asp core MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.Asp core MVC.props
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Asp core MVC.props
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Asp core MVC.props
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\scopedcss\bundle\Asp core MVC.styles.css
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\scopedcss\projectbundle\Asp core MVC.bundle.scp.css
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\Asp core MVC.dll
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\refint\Asp core MVC.dll
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\Asp core MVC.pdb
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\Asp core MVC.genruntimeconfig.cache
+D:\.net\Asp core MVC\Asp core MVC\obj\Debug\net8.0\ref\Asp core MVC.dll

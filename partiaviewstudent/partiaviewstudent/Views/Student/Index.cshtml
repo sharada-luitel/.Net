@@ -1,0 +1,61 @@
+﻿@model StudentViewModel
+
+@{
+    ViewData["Title"] = "Student Index";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table table-striped">
+    <thead>
+
+        <tr>
+            <th> StudentId</th>
+            <th> Name</th>
+            <th>Address</th>
+            <th>Parents</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model.StudentsList)
+        {
+            <tr>
+                <td>@student.StudentId</td>
+                <td>@student.Name</td>
+                <td>@student.Address</td>
+                <td>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>PhoneNumber</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                    
+                        @foreach (var parent in student.Parents)
+                        {
+                            <tr>
+                            <td>@parent.Name </td>
+                            <td>@parent.PhoneNumber</td>
+                            </tr>
+
+                           
+                        }
+                        </tbody>
+                        </table>
+                    
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@student.StudentId" class="btn btn-primary">Edit</a>
+                    <a asp-action="Details" asp-route-id="@student.StudentId" class="btn btn-info">Details</a>
+                    <a asp-action="Delete" asp-route-id="@student.StudentId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-success">Create New Student</a>
+

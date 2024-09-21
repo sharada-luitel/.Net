@@ -1,0 +1,25 @@
+D:\.net\Map method routing\Map method routing\bin\Debug\net8.0\appsettings.Development.json
+D:\.net\Map method routing\Map method routing\bin\Debug\net8.0\appsettings.json
+D:\.net\Map method routing\Map method routing\bin\Debug\net8.0\Map method routing.exe
+D:\.net\Map method routing\Map method routing\bin\Debug\net8.0\Map method routing.deps.json
+D:\.net\Map method routing\Map method routing\bin\Debug\net8.0\Map method routing.runtimeconfig.json
+D:\.net\Map method routing\Map method routing\bin\Debug\net8.0\Map method routing.dll
+D:\.net\Map method routing\Map method routing\bin\Debug\net8.0\Map method routing.pdb
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\Map method routing.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\Map method routing.AssemblyInfoInputs.cache
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\Map method routing.AssemblyInfo.cs
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\Map method routing.csproj.CoreCompileInputs.cache
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\Map method routing.MvcApplicationPartsAssemblyInfo.cache
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\staticwebassets.build.json
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\staticwebassets.development.json
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\staticwebassets\msbuild.Map method routing.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\staticwebassets\msbuild.build.Map method routing.props
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Map method routing.props
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Map method routing.props
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\scopedcss\bundle\Map method routing.styles.css
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\Map method routing.dll
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\refint\Map method routing.dll
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\Map method routing.pdb
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\Map method routing.genruntimeconfig.cache
+D:\.net\Map method routing\Map method routing\obj\Debug\net8.0\ref\Map method routing.dll

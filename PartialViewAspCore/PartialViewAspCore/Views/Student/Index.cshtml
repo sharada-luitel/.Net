@@ -1,0 +1,18 @@
+﻿@using PartialViewAspCore.Models.Student
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<div>
+    <h2>Student Information</h2>
+    <p><strong>Id:</strong> @Model.Id</p>
+    <p><strong>Name:</strong> @Model.Name</p>
+    <p><strong>Roll Number:</strong> @Model.RollNo</p>
+
+    <hr />
+
+    <h2>Parents Information</h2>
+    @await Html.PartialAsync("_ParentsPartial", Model.Parents)
+</div>
+

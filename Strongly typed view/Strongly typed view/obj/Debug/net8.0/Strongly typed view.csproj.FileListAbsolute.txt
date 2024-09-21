@@ -1,0 +1,7 @@
+D:\.net\Strongly typed view\Strongly typed view\obj\Debug\net8.0\Strongly typed view.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Strongly typed view\Strongly typed view\obj\Debug\net8.0\Strongly typed view.AssemblyInfoInputs.cache
+D:\.net\Strongly typed view\Strongly typed view\obj\Debug\net8.0\Strongly typed view.AssemblyInfo.cs
+D:\.net\Strongly typed view\Strongly typed view\obj\Debug\net8.0\Strongly typed view.csproj.CoreCompileInputs.cache
+D:\.net\Strongly typed view\Strongly typed view\obj\Debug\net8.0\Strongly typed view.MvcApplicationPartsAssemblyInfo.cache
+D:\.net\Strongly typed view\Strongly typed view\obj\Debug\net8.0\Strongly typed view.RazorAssemblyInfo.cache
+D:\.net\Strongly typed view\Strongly typed view\obj\Debug\net8.0\Strongly typed view.RazorAssemblyInfo.cs

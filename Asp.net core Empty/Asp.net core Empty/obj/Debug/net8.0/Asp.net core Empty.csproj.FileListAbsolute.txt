@@ -1,0 +1,25 @@
+D:\.net\Asp.net core Empty\Asp.net core Empty\bin\Debug\net8.0\appsettings.Development.json
+D:\.net\Asp.net core Empty\Asp.net core Empty\bin\Debug\net8.0\appsettings.json
+D:\.net\Asp.net core Empty\Asp.net core Empty\bin\Debug\net8.0\Asp.net core Empty.exe
+D:\.net\Asp.net core Empty\Asp.net core Empty\bin\Debug\net8.0\Asp.net core Empty.deps.json
+D:\.net\Asp.net core Empty\Asp.net core Empty\bin\Debug\net8.0\Asp.net core Empty.runtimeconfig.json
+D:\.net\Asp.net core Empty\Asp.net core Empty\bin\Debug\net8.0\Asp.net core Empty.dll
+D:\.net\Asp.net core Empty\Asp.net core Empty\bin\Debug\net8.0\Asp.net core Empty.pdb
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\Asp.net core Empty.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\Asp.net core Empty.AssemblyInfoInputs.cache
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\Asp.net core Empty.AssemblyInfo.cs
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\Asp.net core Empty.csproj.CoreCompileInputs.cache
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\Asp.net core Empty.MvcApplicationPartsAssemblyInfo.cache
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\staticwebassets.build.json
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\staticwebassets.development.json
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\staticwebassets\msbuild.Asp.net core Empty.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\staticwebassets\msbuild.build.Asp.net core Empty.props
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Asp.net core Empty.props
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Asp.net core Empty.props
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\scopedcss\bundle\Asp.net core Empty.styles.css
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\Asp.net core Empty.dll
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\refint\Asp.net core Empty.dll
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\Asp.net core Empty.pdb
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\Asp.net core Empty.genruntimeconfig.cache
+D:\.net\Asp.net core Empty\Asp.net core Empty\obj\Debug\net8.0\ref\Asp.net core Empty.dll

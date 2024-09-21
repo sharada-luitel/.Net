@@ -1,0 +1,16 @@
+﻿@model RepositorypatternCrud.Models.Student
+    <div class="parent-item">        
+        <div class="form-group">
+        <label asp-for="ParentName" class="control-label"></label>
+        <input asp-for="ParentName" class="form-control" />
+        <span asp-validation-for="ParentName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+        <label asp-for="Email" class="control-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div>
+            <button type="button" class="remove-position-btn btn btn-danger">Remove</button>
+        </div>
+    </div>

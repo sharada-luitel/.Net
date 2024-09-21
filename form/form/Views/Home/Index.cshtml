@@ -1,0 +1,29 @@
+﻿@model form.Models.Employee;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <form class="d-grid" asp-action="Index" asp-controller="Home" method="post">
+                <input asp-for="Name" placeholder="Enter Name" class="form-control"/><br/>
+                <input asp-for="Age" placeholder="Enter Age" class="form-control" /><br/>
+                <input asp-for="Designation" placeholder="Enter Designation" class="form-control" /><br />
+                <input asp-for="Salary" placeholder="Enter Salary" class="form-control" /><br />
+                <input type="submit" value="Submit" class="btn btn-outline-primary btn-block"/>
+
+
+            </form>
+        </div>
+
+       
+
+    </div>
+
+</div>

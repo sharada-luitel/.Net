@@ -1,0 +1,11 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor accessor //to access directly on view//
+@{
+    ViewData["Title"] = "About";
+}
+
+<h1>About</h1>
+<h3>@accessor.HttpContext.Session.GetString("MyKey")</h3>
+@* <h3>@ViewBag.Data</h3> *@
+
+

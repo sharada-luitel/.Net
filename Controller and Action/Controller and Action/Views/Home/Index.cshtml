@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    // Layout = "~/Views/Shared/_Layout.cshtml";
+    // Layout = "~/Views/Shared/_Layout2.cshtml";
+    Layout = null;//(No layout is passe#)
+}
+<h1>Index page</h1>
+<p>This is my Home</p>
+@* @{
+    if (TempData["data4"]!= null)
+    {
+        foreach (var item in (List<string>)TempData["data4"])
+        {
+            <h2>@item</h2>
+        }
+    }
+    else
+    {
+        <h1>No data found</h1>
+    }
+
+}
+ *@
+
+
+
+
+
+@* @ViewBag.data1 *@
+
+@* @ViewData["data1"]
+<br/>
+@ViewData["data2"]
+<br/>
+@ViewData["data3"]
+
+@{
+    foreach (var item in (string[])ViewData["data4"])
+    {
+        <h2>@item</h2>
+    }
+}
+@{
+    foreach (var item in (List<string>)ViewData["data5"])
+    {
+        <h3>@item</h3>
+        
+    }
+} *@
+
+
+

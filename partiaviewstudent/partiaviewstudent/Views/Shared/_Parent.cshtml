@@ -1,0 +1,23 @@
+﻿@model Parent
+@using HtmlHelpers.BeginCollectionItemCore
+
+
+
+
+<div style="border-bottom:1px solid #0093e9;padding:1rem 0;">
+        @using (Html.BeginCollectionItem("StudentViewModel"))
+    
+    {
+        <div class="form-group">
+            <label for="Name">Parent Name</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label for="PhoneNumber">Phone Number</label>
+            <input asp-for="PhoneNumber" class="form-control" />
+        </div>
+        <button type="button" class="btn btn-danger remove-parent">Remove</button>
+    }
+</div>
+
+

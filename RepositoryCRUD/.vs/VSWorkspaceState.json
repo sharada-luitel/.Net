@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RepositoryCRUD",
+    "\\RepositoryCRUD\\Controllers",
+    "\\RepositoryCRUD\\Data",
+    "\\RepositoryCRUD\\Repository",
+    "\\RepositoryCRUD\\Repository\\Interface",
+    "\\RepositoryCRUD\\Repository\\Services",
+    "\\RepositoryCRUD\\Views",
+    "\\RepositoryCRUD\\Views\\Shared",
+    "\\RepositoryCRUD\\wwwroot"
+  ],
+  "SelectedNode": "\\RepositoryCRUD\\Repository\\Services\\Userservice.cs",
+  "PreviewInSolutionExplorer": false
+}

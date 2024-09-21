@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    // var emp = ViewData["myemployee"] as Employee;
+    // var emp = ViewBag.myemployee ;
+    // var emp = TempData["myemployee"] as Employee;
+    var emp = ViewData["myemployee"] as List<Employee>;
+
+
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@{
+    if (emp != null)
+    {
+        foreach(var item in emp)
+        {
+            <h2>@item.EmpId</h2>
+            <h2>@item.EmpName</h2>
+            <h2>@item.Designation</h2>
+            <h2>@item.Salary</h2>
+
+        }
+    }
+}
+
+@* @{
+    if (emp != null)
+    {
+
+        <h2>ID: @emp.EmpId</h2>
+        <h2> Name: @emp.EmpName</h2>
+        <h2>Designation: @emp.Designation</h2>
+        <h2>Salary:@emp.Salary</h2>
+    }
+
+} *@

@@ -1,0 +1,69 @@
+﻿@model School
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Student</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="student.Name" class="control-label"></label>
+                <input asp-for="student.Name" class="form-control" />
+                <span asp-validation-for="student.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="student.Address" class="control-label"></label>
+                <input asp-for="student.Address" class="form-control" />
+                <span asp-validation-for="student.Address" class="text-danger"></span>
+            </div>
+            <div id="parentContainer">
+                 @* <partial name="_Parent" model="new Parent()" />  *@
+            </div>
+
+            <div class="form-group">
+                <button type="button" class="btn btn-primary" id="addParentBtn">Add Parent</button>
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            var parentCount = @Model.parentslist.Count;
+
+            $('#addParentBtn').click(function () {
+                $.ajax({
+                    url: '@Url.Action("AddParent", "Student")',
+                    type: 'GET',
+                    success: function (data) {
+                        $('#parentContainer').append(data);
+                        parentCount++;
+                    },
+                    error: function (xhr, status, error) {
+                        alert("An error occurred: " + error);
+                    }
+                });
+            });
+
+            $('#parentContainer').on('click', '.remove-position-btn', function () {
+                $(this).closest('.parent-item').remove();
+            });
+        });
+    </script>
+}
+

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Routing without MVC.props" />
+</Project>
